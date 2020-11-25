@@ -12,6 +12,8 @@
 		<legend>github 연동</legend>
 		<ul>
 			<li>자바</li>
+			<li>자바스프링</li>
+			
 		</ul>
 	</fieldset>
 </body>
